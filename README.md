@@ -1,2 +1,2 @@
-# NotePhotos
-A repos to stroe my notes' photos
+# NoteImages
+A repos to stroe my notes' Images
